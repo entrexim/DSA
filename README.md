@@ -1,6 +1,6 @@
 # DSA
 
-will start it in some days 
+Started but paused due to university exams 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
