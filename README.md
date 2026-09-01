@@ -2,7 +2,8 @@
 
 Started but paused due to university exams, still paused
 Day 9/100 done
-hey i started again and its day 12/100
+hey i started again and its day 12/100.
+Day 14/100
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
